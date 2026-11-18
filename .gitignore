@@ -1,0 +1,38 @@
+# Target directory for Maven
+target/
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Compiled class files
+*.class
+bin/
+
+# Log files
+*.log
+
+# IntelliJ IDEA specific files
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Eclipse specific files
+.metadata/
+.classpath
+.project
+.settings/
+
+# NetBeans specific files
+nbproject/private/
+build/
+nbbuild/
+dist/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+desktop.ini
